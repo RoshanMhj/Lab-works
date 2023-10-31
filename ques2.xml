@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <student:student>
+        <student:id>1</student:id>
+        <student:name>Roshan</student:name>
+        <student:phone>12345</student:phone>
+        <student:address>Nepal</student:address>
+    </student:student>
+    <student:student>
+        <student:id>2</student:id>
+        <student:name>Jane</student:name>
+        <student:phone>31234</student:phone>
+        <student:address>Kathmandu</student:address>
+    </student:student>
+    <student:student>
+        <student:id>3</student:id>
+        <student:name>Mike</student:name>
+        <student:phone>33211</student:phone>
+        <student:address>Mahendranagar</student:address>
+    </student:student>
+</university>

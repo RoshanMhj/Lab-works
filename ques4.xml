@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE students SYSTEM "ques4.dtd">
+<students>
+    <student>
+        <id>1</id>
+        <name>Roshan</name>
+        <phone>2345</phone>
+        <address>Nepal</address>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Zale</name>
+        <phone>2345</phone>
+        <address>Nepal</address>
+    </student>
+    <student>
+        <id>3</id>
+        <name>Ross</name>
+        <phone>2345</phone>
+        <address>Nepal</address>
+    </student>
+    
+</students>

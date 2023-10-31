@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <name>Roshan Maharjan</name>
+        <address type="permanent">Kathmandu</address>
+        <address type="temporary">Kathmandu</address>
+        <phone>5551234567</phone>
+        <website>http://www.roshan.com</website>
+    </student>
+    <student>
+        <name>Ram Shah</name>
+        <address type="permanent">Gorkha</address>
+        <address type="temporary">Nepal</address>
+        <phone>5559876543</phone>
+        <website>http://www.ramshah.com</website>
+    </student>
+</students>

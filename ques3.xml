@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE students [
+    <!ELEMENT students (student+)>
+    <!ELEMENT student (id, name, phone, address)>
+    <!ELEMENT id (#PCDATA)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT phone (#PCDATA)>
+    <!ELEMENT address (#PCDATA)>
+]>
+<students>
+    <student>
+        <id>1</id>
+        <name>Roshan</name>
+        <phone>12345</phone>
+        <address>Nepal</address>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Paula</name>
+        <phone>12345</phone>
+        <address>Nepal</address>
+    </student>
+    <student>
+        <id>1</id>
+        <name>Rick</name>
+        <phone>12345</phone>
+        <address>Nepal</address>
+    </student>
+   
+</students>

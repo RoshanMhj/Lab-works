@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <id>1</id>
+        <name>Adam Paul</name>
+        <phone>534532</phone>
+        <address>Poland</address>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Kate Lindsey</name>
+        <phone>432213</phone>
+        <address>USA</address>
+    </student>
+    <student>
+        <id>3</id>
+        <name>Logan Paul</name>
+        <phone>22225</phone>
+        <address>Canada</address>
+    </student>
+</students>

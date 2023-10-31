@@ -1,0 +1,6 @@
+<!ELEMENT students (student+)>
+<!ELEMENT student (id, name, phone, address)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT phone (#PCDATA)>
+<!ELEMENT address (#PCDATA)>

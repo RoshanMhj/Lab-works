@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee>
+        <id>1</id>
+        <name>Zale</name>
+        <address>Nepal</address>
+        <phone>5551234567</phone>
+        <password>Passw0rd</password>
+        <salary>15000</salary>
+    </employee>
+    <employee>
+        <id>2</id>
+        <name>Jane</name>
+        <address>India</address>
+        <phone>5559876543</phone>
+        <password>Secret123</password>
+        <salary>20000</salary>
+    </employee>
+    <employee>
+        <id>3</id>
+        <name>Mike</name>
+        <address>USA</address>
+        <phone>5555555555</phone>
+        <password>SecurePwd</password>
+        <salary>22000</salary>
+    </employee>
+</employees>

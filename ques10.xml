@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <name>Ram Maharjan</name>
+        <class>12</class>
+        <roll>101</roll>
+        <phone/>
+    </student>
+    <student>
+        <name>Hari Gupta</name>
+        <class>10</class>
+        <roll>203</roll>
+        <phone/>
+    </student>
+</students>

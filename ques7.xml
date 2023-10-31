@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE employees SYSTEM "ques7.dtd">
+<employees>
+    <employee type="FullTime">
+        <firstname>Roshan</firstname>
+        <lastname>Maharjan</lastname>
+        <address>Nepal</address>
+        <phone>12345</phone>
+    </employee>
+    <employee type="PartTime">
+        <firstname>Alan</firstname>
+        <lastname>Rai</lastname>
+        <address>12345</address>
+        <phone>Nepal</phone>
+    </employee>
+    
+</employees>

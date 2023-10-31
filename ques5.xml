@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE employee [
+    <!ELEMENT employee (firstname, lastname, address, phone)>
+    <!ELEMENT firstname (#PCDATA)>
+    <!ELEMENT lastname (#PCDATA)>
+    <!ELEMENT address (#PCDATA)>
+    <!ELEMENT phone (#PCDATA)>
+]>
+<employee>
+    <firstname>Roshan</firstname>
+    <lastname>Maharjan</lastname>
+    <address>Nepal</address>
+    <phone>12345</phone>
+</employee>
